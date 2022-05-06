@@ -1,2 +1,2 @@
 # SnakeGame
-Simple Classic game of Snake developed by Python Pygame
+Simple Classic game of Python Snake developed by Python Pygame

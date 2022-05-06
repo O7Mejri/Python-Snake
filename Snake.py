@@ -60,7 +60,7 @@ class Tail(Head):
 
 class Ringo(Head):
     color = (200, 50, 50)
-    img = pygame.image.load(r'X:\Code\Python\snikoo\apple.png')
+    img = pygame.image.load(r'.\requirements\apple.png')
     img = pygame.transform.scale(img, (20,20))
     def __init__(self, pos) -> None:
         super().__init__(pos)
